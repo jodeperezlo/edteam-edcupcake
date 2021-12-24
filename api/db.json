@@ -1,0 +1,123 @@
+{
+  "cupcakes": [
+    {
+      "id": 1,
+      "sabor": "Vainilla",
+      "color": "Amarillo",
+      "descripcion": "Deliciosa torta de vainilla con una capa de chocolate",
+      "precio": 10,
+      "imagen": "http://hazgrandestuscomidas.com/blog/wp-content/uploads/2016/07/como-hacer-cupcakes.jpg"
+    },
+    {
+      "id": 2,
+      "sabor": "Chocolate",
+      "color": "Marrón",
+      "descripcion": "Deliciosa torta de chocolate con una capa de chocolate",
+      "precio": 14,
+      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=2000&z=1&q=70"
+    },
+    {
+      "id": 3,
+      "sabor": "Fresa",
+      "color": "Rojo",
+      "descripcion": "Deliciosa torta de fresa con una capa de chocolate",
+      "precio": 12,
+      "imagen": "https://www.deliciosi.com/images/400/480/cupcakes-de-fresa.jpg"
+    },
+    {
+      "id": 4,
+      "sabor": "Vainilla",
+      "color": "Amarillo",
+      "descripcion": "Deliciosa torta de vainilla con una capa de chocolate",
+      "precio": 10,
+      "imagen": "http://hazgrandestuscomidas.com/blog/wp-content/uploads/2016/07/como-hacer-cupcakes.jpg"
+    },
+    {
+      "id": 5,
+      "sabor": "Chocolate",
+      "color": "Marrón",
+      "descripcion": "Deliciosa torta de chocolate con una capa de chocolate",
+      "precio": 14,
+      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=2000&z=1&q=70"
+    },
+    {
+      "id": 6,
+      "sabor": "Fresa",
+      "color": "Rojo",
+      "descripcion": "Deliciosa torta de fresa con una capa de chocolate",
+      "precio": 12,
+      "imagen": "https://www.deliciosi.com/images/400/480/cupcakes-de-fresa.jpg"
+    },
+    {
+      "id": 7,
+      "sabor": "Vainilla",
+      "color": "Amarillo",
+      "descripcion": "Deliciosa torta de vainilla con una capa de chocolate",
+      "precio": 10,
+      "imagen": "http://hazgrandestuscomidas.com/blog/wp-content/uploads/2016/07/como-hacer-cupcakes.jpg"
+    },
+    {
+      "id": 8,
+      "sabor": "Chocolate",
+      "color": "Marrón",
+      "descripcion": "Deliciosa torta de chocolate con una capa de chocolate",
+      "precio": 14,
+      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=2000&z=1&q=70"
+    },
+    {
+      "id": 9,
+      "sabor": "Fresa",
+      "color": "Rojo",
+      "descripcion": "Deliciosa torta de fresa con una capa de chocolate",
+      "precio": 12,
+      "imagen": "https://www.deliciosi.com/images/400/480/cupcakes-de-fresa.jpg"
+    },
+    {
+      "id": 10,
+      "sabor": "Vainilla",
+      "color": "Amarillo",
+      "descripcion": "Deliciosa torta de vainilla con una capa de chocolate",
+      "precio": 10,
+      "imagen": "http://hazgrandestuscomidas.com/blog/wp-content/uploads/2016/07/como-hacer-cupcakes.jpg"
+    },
+    {
+      "id": 11,
+      "sabor": "Chocolate",
+      "color": "Marrón",
+      "descripcion": "Deliciosa torta de chocolate con una capa de chocolate",
+      "precio": 14,
+      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=2000&z=1&q=70"
+    },
+    {
+      "id": 12,
+      "sabor": "Fresa",
+      "color": "Rojo",
+      "descripcion": "Deliciosa torta de fresa con una capa de chocolate",
+      "precio": 12,
+      "imagen": "https://www.deliciosi.com/images/400/480/cupcakes-de-fresa.jpg"
+    }
+  ],
+  "servicios": [
+    {
+      "id": 1,
+      "nombre": "Curso de repostería",
+      "descripcion": "Curso de repostería para principiantes",
+      "precio": 80,
+      "imagen": "https://www.vainillamolina.com/uploads/images/VM_Blo77.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Delivery a toda la ciudad",
+      "descripcion": "Pide desde donde estás, y los cupcakes llegarán hasta ti",
+      "precio": 5,
+      "imagen": "https://img.freepik.com/foto-gratis/repartidor-sobre-pared-amarilla-aislada_1368-72297.jpg?size=626&ext=jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedidos especiales",
+      "descripcion": "Pide tus cupcakes especiales en formato de regalo para tu persona favorita",
+      "precio": 25,
+      "imagen": "https://i2.wp.com/www.pastelesdlulu.com/wp-content/uploads/2021/04/mom.jpg?resize=839%2C735&ssl=1"
+    }
+  ]
+}

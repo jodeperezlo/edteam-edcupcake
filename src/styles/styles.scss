@@ -1,0 +1,58 @@
+// Copyright (c) 2021 Jorge de Jesus Perez Lopez
+//
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
+@import '~ed-grid/ed-grid';
+@import '~edteam-style-guides/edteam-style-guides';
+
+@media (max-width: 1024px) {
+  .container {
+    margin-bottom: 3rem;
+  }
+}
+
+// Posicionamiento del header
+.ed-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+
+  .logo {
+    height: 2rem;
+  }
+
+  // Posicionamiento del nav
+  // Utilizamos el mixin to() de EDgrid para que sólo se aplique en móvil
+  .nav {
+    @include to(lg) {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      background: $borderColor;
+      color: $darkColor;
+    }
+  }
+
+  .menu {
+    list-style: none;
+  }
+
+  // Colores de links del menú
+  .link {
+    color: $darkColor;
+    &.active {
+      color: $firstColor;
+    }
+    @include from(lg) {
+      color: $darkColor;
+    }
+  }
+
+  // Estilos para los íconos
+  .icon {
+    --size: 2rem;
+    width: var(--size);
+    height: var(--size);
+  }
+}
