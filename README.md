@@ -26,4 +26,4 @@ npm run build
 
 ## Autor del proyecto 🙋‍♂️
 
-El desarrollo del código del proyecto fue desarrollado por [Jorge de Jesús Pérez López](https://portfolio-jorgeperez.netlify.app/); el autor intelectual es [EDteam](https://ed.team/).
+El desarrollo del código del proyecto fue hecho por [Jorge de Jesús Pérez López](https://portfolio-jorgeperez.netlify.app/); el autor intelectual es [EDteam](https://ed.team/).
