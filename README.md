@@ -47,3 +47,13 @@ El desarrollo del código del proyecto fue hecho por [Jorge de Jesús Pérez Ló
 ![EDcupcake Cupcakes](./edcupcake/EDcupcake2.png)
 
 ![EDcupcake Nosotros](./edcupcake/EDcupcake3.png)
+
+![EDcupcake Inicio en móvil](./edcupcake/EDcupcake4.png)
+
+![EDcupcake Cupcakes en móvil](./edcupcake/EDcupcake5.png)
+
+![EDcupcake Nosotros en móvil](./edcupcake/EDcupcake6.png)
+
+![EDcupcake Nosotros en móvil segunda parte](./edcupcake/EDcupcake7.png)
+
+![EDcupcake Servicios en móvil](./edcupcake/EDcupcake8.png)
