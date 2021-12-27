@@ -2,7 +2,7 @@
 //
 // This software is released under the MIT License.
 // https://opensource.org/licenses/MIT
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 import { UilEstate } from '@iconscout/react-unicons';
 import { UilStore } from '@iconscout/react-unicons';
@@ -14,11 +14,13 @@ const Header = () => {
       <div className='ed-grid lg-grid-5'>
         {/* <!-- Logo  --> */}
         <div className='s-cross-center s-main-center lg-main-start'>
-          <img
-            className='logo'
-            src='https://ux.ed.team/img/edteam-ux.svg'
-            alt='Logo EDteam'
-          />
+          <Link to='/'>
+            <img
+              className='logo'
+              src='https://ux.ed.team/img/edteam-ux.svg'
+              alt='Logo EDteam'
+            />
+          </Link>
         </div>
         <nav className='nav lg-cols-4 s-cross-center ed-grid full'>
           {/* <!--  Menú de navegación    --> */}
